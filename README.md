@@ -29,6 +29,6 @@ Relive the timeless game of Xs and Os with a visually appealing modern interface
 
 ## Getting Started:
 To get started with the games in this collection:
-1. **Clone the repository**: `git clone https://github.com/your-username/mini-games-collection.git`
+1. **Clone the repository**: `git clone https://github.com/Dilshan-Mindika/Mini-Games-Python.git`
 2. **Install dependencies**: Ensure you have Python installed on your machine. The tkinter library comes pre-installed with Python, so no additional installation is required.
 3. **Run the game**: Navigate to the directory where the game files are stored and execute the Python script to launch the game.
